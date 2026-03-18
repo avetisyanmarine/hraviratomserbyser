@@ -3,7 +3,7 @@ import { ForthPageBlock } from "./fortg-page-block";
 import { ForthPagePart, ForthPagePartContext } from "./styled";
 import Church from "../../assets/image/gayane.jpg";
 import Restaurant from "../../assets/image/restaurant.jpg";
-import Photo3 from "../../assets/image/photo3.jpg";
+import Photo3 from "../../assets/image/examp2.jpg";
 import Bant from "../../assets/image/bant.png";
 
 export const ForthPage = () => {

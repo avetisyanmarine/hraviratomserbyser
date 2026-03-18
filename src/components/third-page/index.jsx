@@ -21,7 +21,7 @@ export const ThirdPage = () => {
             ImageSrc={null}
             number={"13:00"}
             bigText="ՓԵՍԱՅԻ ՏՈՒՆ"
-            smallText="գ․ Մուսալեռ Տիգրան Մեծ 19/2"
+            smallText="Այստեղ կարող է լինել Ձեր հասցեն"
           />
           <ThirdPageBlock
             uniqueMargin={50}
@@ -29,7 +29,7 @@ export const ThirdPage = () => {
             ImageSrc={Haverjutyun}
             number={"13:30"}
             bigText="ՀԱՐՍԻ ՏՈՒՆ"
-            smallText="ք․ Էջմիածին, Չարենց 4/37"
+            smallText="Այստեղ կարող է լինել Ձեր հասցեն"
           />
           <ThirdPageBlock
             imageSize={114}

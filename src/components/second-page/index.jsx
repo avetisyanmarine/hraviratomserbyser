@@ -1,7 +1,7 @@
 import { SecondPagePart, GridDiv } from "./styled";
 import { Container, Flexible } from "../../GlobalStyle";
 import { useEffect, useState } from "react";
-import Photo2 from "../../assets/image/photo2.jpg";
+import Photo2 from "../../assets/image/examp.jpg";
 import { ThirdPagePartCalendar } from "../third-page/styled";
 
 export const SecondPage = () => {
@@ -108,11 +108,7 @@ export const SecondPage = () => {
       <div className="mt-10 mb-15">
         <h2
           className="mb-10"
-          data-aos="fade-up"
-          data-aos-offset="400"
-          data-aos-anchor-placement="top-bottom"
-          data-aos-duration="600"
-          data-aos-delay="300"
+          // data-aos="fade-up"
         >
           Սիրելի հյուրեր
         </h2>

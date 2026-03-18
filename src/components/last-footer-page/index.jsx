@@ -20,15 +20,15 @@ export const LastFooterPage = () => {
               <img loading="lazy" src={PhoneSvg} />
               <div>
                 <p>
-                  <a href="tel:043090996"> 043-09-09-96</a>
+                  <a href="tel:043090996"> 043-43-43-43</a>
                 </p>
                 <p>
-                  <a href="tel:094104015"> 094-10-40-15</a>
+                  <a href="tel:094104015"> 077-77-77-77</a>
                 </p>
               </div>
             </div>
           </div>
-          <p>Պատրաստվել է</p>
+          <p className="text-left">Կայքը պատրաստվել է</p>
           <Flexible className="items-center justify-center gap-2 mt-4">
             <svg
               width="20px"
@@ -62,12 +62,23 @@ export const LastFooterPage = () => {
                 ></path>
               </g>
             </svg>
-            <a
-              className="underline text-[#1e1e1e]"
-              href="https://www.instagram.com/webinvite.am/"
+            <div
+              style={{ alignItems: "start" }}
+              className="flex flex-col mx-3"
             >
-              WEB INVITE
-            </a>
+              <a
+                className="underline text-[#1e1e1e]"
+                href="https://www.instagram.com/hraviratomserby_saten/"
+              >
+                HraviratomSER_by_Saten
+              </a>
+              <a
+                className="underline text-[#1e1e1e]"
+                href="https://www.instagram.com/webinvite.am/"
+              >
+                Web Invite
+              </a>
+            </div>
             կողմից
           </Flexible>
         </LastFooterPagePartContext>
