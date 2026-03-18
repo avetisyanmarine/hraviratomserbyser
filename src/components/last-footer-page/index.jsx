@@ -5,7 +5,7 @@ import PhoneSvg from "../../assets/vectors/Phone.svg";
 
 export const LastFooterPage = () => {
   return (
-    <LastFooterPagePart className="bg-[#1e1e1e] rounded-tl-[140px]">
+    <LastFooterPagePart className="bg-[#1e1e1e] rounded-tl-[110px]">
       <Container>
         <LastFooterPagePartContext>
           <div>
